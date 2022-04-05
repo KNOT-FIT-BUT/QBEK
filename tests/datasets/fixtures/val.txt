@@ -1,0 +1,1 @@
+{"uuid": "uuid:64d1e9a0-e7c9-11e6-9964-005056825211", "query": "Title 2", "keyphrases": ["hudby", "divadla"], "contexts": ["To ovšem u spontánní rockové hudby příliš v úvahu nepřipadá.	29 34", "srpna 1881 ve prospěch obnovené stavby Národního divadla p.	49 56", "Smotala jsem, co mi kdo vyprávěl, s vlastní vzpomínkou."]}

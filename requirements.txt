@@ -1,0 +1,16 @@
+typing~=3.7.4.3
+torch~=1.8.1
+pytorch-lightning~=1.4.8
+transformers~=4.10.1
+setuptools~=54.2.0
+tqdm~=4.62.2
+numpy~=1.20.3
+windpyutils~=1.1.3
+spacy==2.3.7
+scikit-learn~=0.24.1
+ray~=1.6.0
+ray[tune]~=1.6.0
+pandas~=1.3.2
+ufal.morphodita~=1.10.1.1
+hyperopt~=0.2.5
+numba~=0.54.1

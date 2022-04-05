@@ -1,0 +1,1 @@
+{"uuid": "uuid:64d1e9a0-e7c9-11e6-9964-005056825212", "query": "Title 3", "keyphrases": ["Klášterní", "kostel"], "contexts": ["Klášterní kostel Nanebevzetí P. Marie-tympanon západního portálu.	0 9	10 16"]}
