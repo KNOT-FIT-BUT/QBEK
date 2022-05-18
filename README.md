@@ -77,3 +77,15 @@ The Dataset file that is used for training and evaluation is a jsonl file with t
   * Context and items in list of spans are separated by \t.
   * Example: 
     * This context contains keyphrase.\t5 12\t22 31
+
+# Bibtex citation
+If you use QBEK, please cite our paper:
+```
+@inproceedings{docekal2022query,
+  title={Query-Based Keyphrase Extraction from Long Documents},
+  author={Docekal, Martin and Smrz, Pavel},
+  booktitle={The International FLAIRS Conference Proceedings},
+  volume={35},
+  year={2022}
+}
+```
